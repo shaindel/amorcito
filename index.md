@@ -1,4 +1,8 @@
-
+<script>
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
+</script>
 <h2>Querida Vanessa:</h2>
 
 <p>Puedes creerlo?? hoy hace un mes te conocí, desde entonces yo, ya no soy la misma, y siento cosas que nunca antes había sentido.
@@ -36,4 +40,7 @@ Tu ya eres mi chica pero aún no eres mi novia, tons que .... <h2>Quieres ser mi
 
 <img src="https://c.tenor.com/FoJDH3lLpUgAAAAd/bugs-bunny-love.gif" data-deferred="1" jsaction="load:XAeZkd;" alt="Bugs Bunny Love GIF - Bugs Bunny Love In Love - Descubre &amp;amp;amp; Comparte GIFs" jsname="HiaYvf" class="n3VNCb" id="imi" data-w="480" data-h="352" data-atf="true" data-iml="2541.100000023842" style="height: 352px; width: 480px; margin: 0px;">
 
-<button>SI</button>  <button>NO</button>
+<button title="la opción más sabia">SI</button>  <button title="Estas segura? Mejor pica el otro botón">NO</button>
+<p>Click the button to display an alert box.</p>
+
+<button onclick="myFunction()">Try it</button>
