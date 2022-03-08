@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shaindel/declaraciondeamor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Querida Vanessa:</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>Puedes creerlo?? hoy hace un mes te conocí, desde entonces yo, ya no soy la misma, y siento cosas que nunca antes había sentido.
 
-### Markdown
+He pasado por todo tipo de emociones, enamoramiento, alegría, tristeza, enojo, sentimientos de no merecimiento, ha sido muy intenso y muy profundo y muy poderoso.
+No siempre todo es bonito porque nos estamos conociendo y haciendo que nuestros mundos tengan un punto de encuentro, pero al final conciliamos.
+Me moría por decirles a todos que estaba enamorada de ti, me enorgullece conocer y amar a alguien como tú
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ya sabes que creí que estabas hecha a mi medida, y eso genera mucho miedo porque yo no había deseado tanto algo y no había tenido tanto miedo de perderlo.
 
-```markdown
-Syntax highlighted code block
+Todo esto había pasado y ni siquiera te había visto.
 
-# Header 1
-## Header 2
-### Header 3
+Todo pasa a una velocidad vertiginosa.
 
-- Bulleted
-- List
+Tengo tanta angustia siempre te pregunto por el futuro.
+Es que sinceramente todo, parece muy irreal, era muy improbable conocerte, coincidimos en tantas cosas y nos complementamos en otras.
+Me da miedo, pareces la indicada, sino eres tú quién? No habrá nadie.
 
-1. Numbered
-2. List
+O tú o ninguna :P 
 
-**Bold** and _Italic_ and `Code` text
+Entonces te vi y todo mi cuerpo temblo, y me gustó el calor de tus manos, y tu mirada, y tu seguridad, y tu olor y tu risa, y la forma en la que me haces sentir y además te admiro tanto eres una gran persona. 
+Puedo mirarte por horas, puedo hablar por horas de ti 
 
-[Link](url) and ![Image](src)
-```
+Ya ni siquiera mi sueño me pertenece.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Vas a quedarte? Te digo y entonces lo digo hasta desesperarte porque quiero que me digas que si, que siempre vas a quedarte conmigo. 
+Aunque aún no sepamos eso, trae un poco de paz a mi corazón.
 
-### Jekyll Themes
+Tu ya eres mi chica pero aún no eres mi novia, tons que .... <h2>Quieres ser mi novia? <3<h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaindel/declaraciondeamor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</p>
+
+
+<img src="https://c.tenor.com/FoJDH3lLpUgAAAAd/bugs-bunny-love.gif" data-deferred="1" jsaction="load:XAeZkd;" alt="Bugs Bunny Love GIF - Bugs Bunny Love In Love - Descubre &amp;amp;amp; Comparte GIFs" jsname="HiaYvf" class="n3VNCb" id="imi" data-w="480" data-h="352" data-atf="true" data-iml="2541.100000023842" style="height: 352px; width: 480px; margin: 0px;">
+
+<button>SI</button>  <button>NO</button>
