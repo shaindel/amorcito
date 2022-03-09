@@ -20,14 +20,14 @@ function myFunctiontwo() {
 <p>No siempre todo es bonito porque nos estamos conociendo y haciendo que nuestros mundos tengan un punto de encuentro, pero al final conciliamos.
 Me moría por decirles a todos que estaba enamorada de ti, me enorgullece conocer y amar a alguien como tú</p>
 <p>Ya sabes que creí que estabas hecha a mi medida, y eso genera mucho miedo porque yo no había deseado tanto algo y no había tenido tanto miedo de perderlo.</p>
-<br>
+
 <p>Todo esto había pasado y ni siquiera te había visto.<br>
 Todo pasa a una velocidad vertiginosa.<br>
 Tengo tanta angustia siempre te pregunto por el futuro. <br>
 Es que sinceramente todo, parece muy irreal, era muy improbable conocerte, coincidimos en tantas cosas y nos complementamos en otras. <br>
 Me da miedo, pareces la indicada, sino eres tú quién? No habrá nadie.</p>
 
-<p>O tú o ninguna :P </p>
+<p><a href="https://www.youtube.com/watch?v=kadaJqv6SDk" target="_blank"> O tú o ninguna :P </a></p>
 
 <p>Entonces te vi y todo mi cuerpo temblo, y me gustó el calor de tus manos, y tu mirada, y tu seguridad, y tu olor y tu risa, y la forma en la que me haces sentir y además te admiro tanto eres una gran persona. 
 Puedo mirarte por horas, puedo hablar por horas de ti </p>
