@@ -4,9 +4,12 @@
 <script>
 function myFunction() {
   alert("Puede besar a la novia!");
+  window.location.replace("https://www.youtube.com/watch?v=gNHuKMeypMg"); 
+	
 }
 function myFunctiontwo() {
   alert("Yo nací para amar nadie nació para mi, mis sueños nunca se volvieron realidaaad");
+  window.location.replace("https://www.youtube.com/watch?v=0KPDB_Sil5I");
 }
 </script>
 <h2>Querida Vanessa:</h2>
@@ -48,4 +51,3 @@ Aunque aún no sepamos eso, trae un poco de paz a mi corazón. </p>
 
 
 <button onclick="myFunctiontwo()">No</button>
-
